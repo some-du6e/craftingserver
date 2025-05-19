@@ -1,0 +1,24 @@
+{
+  "name": "craftingserver",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/some-du6e/craftingserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/some-du6e/craftingserver/issues"
+  },
+  "homepage": "https://github.com/some-du6e/craftingserver#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "lebronjamesiscute": "^694.2.0"
+  }
+}
